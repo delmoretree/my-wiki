@@ -8,7 +8,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TableOfContents</loc>
-		<lastmod>2022-11-24</lastmod>
+		<lastmod>2022-11-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -38,7 +38,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:分析学</loc>
-		<lastmod>2022-11-24</lastmod>
+		<lastmod>2022-11-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:单侧导数</loc>
+		<lastmod>2022-11-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:导数的定义</loc>
+		<lastmod>2022-11-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
