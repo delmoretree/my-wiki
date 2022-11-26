@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Cauchy收敛原理</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Stolz%2520定理</loc>
+		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -43,6 +55,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:初等数学</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:单侧导数</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -50,6 +68,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:单调有界准则</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:基本列（Cauchy列）</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -109,6 +133,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:数列</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:数列极限</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -116,6 +146,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:极限</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:波尔查诺-魏尔斯特拉斯定理</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
