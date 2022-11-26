@@ -44,13 +44,25 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:单侧导数</loc>
-		<lastmod>2022-11-25</lastmod>
+		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:导数的定义</loc>
-		<lastmod>2022-11-25</lastmod>
+		<loc>https://onetwo.ren/wiki/#:导数</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:数列极限</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:极限</loc>
+		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
