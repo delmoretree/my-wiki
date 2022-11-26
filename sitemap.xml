@@ -13,6 +13,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:HelloWorld</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Stolz%2520定理</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -49,8 +55,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:代数学</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:充分与必要</loc>
+		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:分析学</loc>
-		<lastmod>2022-11-25</lastmod>
+		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
