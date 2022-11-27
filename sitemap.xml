@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:0E0B0A01-A14B-416A-8124-4BAC51651CDC.jpg</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Cauchy收敛原理</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -61,6 +66,24 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:五行</loc>
+		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:五行相生相克</loc>
+		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:五邪</loc>
+		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:代数学</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -109,6 +132,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:国学</loc>
+		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:基本列（Cauchy列）</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -139,6 +168,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:实邪</loc>
+		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:对角矩阵</loc>
 		<lastmod>2022-11-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -159,6 +194,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:微分学</loc>
 		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:微邪</loc>
+		<lastmod>2022-11-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -219,6 +260,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:极限</loc>
 		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:正邪</loc>
+		<lastmod>2022-11-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -297,6 +344,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:矩阵的逆</loc>
 		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:虚邪</loc>
+		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:贼邪</loc>
+		<lastmod>2022-11-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
