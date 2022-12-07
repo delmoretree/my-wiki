@@ -66,6 +66,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:不定积分</loc>
+		<lastmod>2022-12-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:五脏</loc>
 		<lastmod>2022-11-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -134,6 +140,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:单调有界准则</loc>
 		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:原函数存在定理</loc>
+		<lastmod>2022-12-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -354,6 +366,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:积分学</loc>
+		<lastmod>2022-12-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:肾</loc>
 		<lastmod>2022-11-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -368,6 +386,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:贼邪</loc>
 		<lastmod>2022-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:连续函数一定有原函数</loc>
+		<lastmod>2022-12-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
