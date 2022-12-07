@@ -144,12 +144,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:原函数存在定理</loc>
-		<lastmod>2022-12-06</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:国学</loc>
 		<lastmod>2022-11-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -182,6 +176,24 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:子列收敛定理的推论</loc>
 		<lastmod>2022-11-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:定理-连续偶函数只有0下限的原函数是奇函数</loc>
+		<lastmod>2022-12-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:定理-连续函数一定有原函数</loc>
+		<lastmod>2022-12-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:定理-连续奇函数的原函数一定是偶函数</loc>
+		<lastmod>2022-12-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -386,12 +398,6 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:贼邪</loc>
 		<lastmod>2022-11-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:连续函数一定有原函数</loc>
-		<lastmod>2022-12-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
